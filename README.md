@@ -20,6 +20,7 @@ https://github.com/RWTH-EBC/EBC-Tutorials/tree/master/EBC-Gurobi-101
 Außerdem gibt es zahlreiche Videos, die dir den Einstieg in Gurobi erleichtern, z.B.:
 **"Python I webinar: Introduction to Modeling with Python"** (https://www.youtube.com/watch?v=vnLc_3VnVcw)
 **"Python II: Advanced Algebraic modeling with Python and Gurobi"** (https://www.youtube.com/watch?v=NFaFMGWj1Hc)
+**Build optimization models and turn them into full featured applications with Gurobi and Anaconda** (https://www.youtube.com/watch?v=N4nWBthN6xA)
 
 Ein beispielhafter Workflow mit Python und Gurobi findet sich unter:
 https://github.com/MarcoWirtz/EnergySystemOptimization
