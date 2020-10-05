@@ -10,7 +10,7 @@ https://github.com/RWTH-EBC/EBC-Tutorials/tree/master/EBC-Python-101
 
 Installation von Gurobi kann entweder über das Software-Center (auf dem Desktop) erfolgen, oder ihr ladet euch die neueste Version direkt von gorubi.com herunter (Bitte prüfen, ob die Installation ohne Admin-Rechte auch auf dem Hiwi-Rechner möglich ist.).
 
-Für akademische Zwecke lässt sich eine Gurobi-Lizenz kostenlos herunterladen. Dazu muss ein Account auf gurobi.com eingerichtet werden. Nutze als e-Mail-Adresse am besten dein RWTH-Adresse. Auf http://www.gurobi.com/downloads/licenses/license-center kann dann unter "Akademische Lizen beantragen" eine neue Gurobi-Lizenz beantragt werden.
+Für akademische Zwecke lässt sich eine Gurobi-Lizenz kostenlos herunterladen. Dazu muss ein Account auf gurobi.com eingerichtet werden. Nutze als e-Mail-Adresse am besten deine RWTH-Adresse. Auf http://www.gurobi.com/downloads/licenses/license-center kann dann unter "Akademische Lizen beantragen" eine neue Gurobi-Lizenz beantragt werden.
 
 #### Tutorials für Gurobi
 
