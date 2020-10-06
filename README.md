@@ -12,6 +12,8 @@ Installation von Gurobi kann entweder über das Software-Center (auf dem Desktop
 
 Für akademische Zwecke lässt sich eine Gurobi-Lizenz kostenlos herunterladen. Dazu muss ein Account auf gurobi.com eingerichtet werden. Nutze als e-Mail-Adresse am besten deine RWTH-Adresse. Auf http://www.gurobi.com/downloads/licenses/license-center kann dann unter "Akademische Lizen beantragen" eine neue Gurobi-Lizenz beantragt werden.
 
+Exzellente Python Tutorials gibt es von Corey Schafer: https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
+
 #### Tutorials für Gurobi
 
 Eine kurze **Einführung** in Gurobi findet sich hier:
@@ -25,6 +27,9 @@ Außerdem gibt es zahlreiche Videos, die dir den Einstieg in Gurobi erleichtern,
 Ein beispielhafter Workflow mit Python und Gurobi findet sich unter:
 https://github.com/MarcoWirtz/EnergySystemOptimization
 
+#### Git
+Eine interaktive Einführung zu git findet sich unter: https://learngitbranching.js.org
+
 #### Rechnerplatz buchen
 Reserviere dir deinen Rechnerarbeitsplatz im Hiwi-Raum deiner Wahl über Outlook. Eine Anleitung findet sich hier:
 https://ecampus.rwth-aachen.de/units/eonerc/ebc/Wiki/CIP-Pool.aspx
@@ -35,3 +40,5 @@ aufmerksam an.
 
 #### Stundenzettel (nur für Hiwis)
 Es muss ein Stundenzettel geführt werden. Die Vorlage erhälst du unter https://ecampus.rwth-aachen.de/units/eonerc/ebc/SiteAssets/Wiki/Studierende/Vorlage%20Stundenliste.xlsm
+
+
